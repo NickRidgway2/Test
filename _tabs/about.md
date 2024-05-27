@@ -2,8 +2,6 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-icon: fas fa-info-circle
-order: 4
 title: Blog Four
 date: 2024-05-27 -500
 categories: [home]
